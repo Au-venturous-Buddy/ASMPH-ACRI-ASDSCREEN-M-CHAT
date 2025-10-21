@@ -1,0 +1,12 @@
+{
+    "English": {
+        "field_names": {
+            "text": "We would like to clarify your answers to the following questions. Please press the \"START FOLLOW UP\" button below."
+        }
+    },
+    "Filipino": {
+        "field_names": {
+            "text": "Nais namin linawin ang inyong sagot sa mga sumusunod na katanungan. Pindutin ang \"START FOLLOW UP\" button sa ibaba."
+        }
+    }
+}

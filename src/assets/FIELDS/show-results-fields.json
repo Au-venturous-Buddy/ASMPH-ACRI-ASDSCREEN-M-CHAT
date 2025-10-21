@@ -12,9 +12,17 @@
                 "high_risk": {
                     "text": "Score indicates HIGH RISK. Bring your child to a developmental pediatrician for assessment and early intervention.",
                     "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405592782%3Fsecret_token%3Ds-toxBNVRSf5F&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                },
+                "medium_risk": {
+                    "text": "Score indicates MEDIUM RISK.",
+                    "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405592782%3Fsecret_token%3Ds-toxBNVRSf5F&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
                 }
             },
-            "results_summary": "Results Summary"
+            "results_summary": "Results Summary",
+            "item_score": {
+                "pass": {"text": "Pass", "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405656073%3Fsecret_token%3Ds-IvFrT0s1akd&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"},
+                "fail": {"text": "Fail", "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405656151%3Fsecret_token%3Ds-jPuVSfWPpTz&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"}
+            }
         }
     },
     "Filipino": {
@@ -30,9 +38,17 @@
                 "high_risk": {
                     "text": "Ang score na ito ay nangangahulugan ng HIGH RISK. Dalhin ang inyong anak sa isang developmental pediatrician para sumailalim sa isang developmental assessment at magsimula ng therapy sessions kung kinakailangan.",
                     "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405592776%3Fsecret_token%3Ds-4ziPJRO6AO3&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
+                },
+                "medium_risk": {
+                    "text": "Ang score na ito ay nangangahulugan ng MEDIUM RISK.",
+                    "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405592776%3Fsecret_token%3Ds-4ziPJRO6AO3&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"
                 }
             },
-            "results_summary": "Buod ng mga Resulta"
+            "results_summary": "Buod ng mga Resulta",
+            "item_score": {
+                "pass": {"text": "Pasado", "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405656097%3Fsecret_token%3Ds-eueu7NZ7Ksf&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"},
+                "fail": {"text": "Bagsak", "audio": "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1405656160%3Fsecret_token%3Ds-Hpl0BCh3Qi6&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"}
+            }
         }
     }
 }
