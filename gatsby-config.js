@@ -6,10 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: `ASD Screen - Q-CHAT-10`,
+    title: `ASD Screen - M-CHAT`,
     author: `ACRI`
   },
-  pathPrefix: "/ASMPH-ACRI-ASDSCREEN-Q-CHAT-10",
+  pathPrefix: "/ASMPH-ACRI-ASDSCREEN-M-CHAT",
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
@@ -27,8 +27,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `ASD Screen - Q-CHAT-10`,
-        short_name: `ASD Screen - Q-CHAT-10`,
+        name: `ASD Screen - M-CHAT`,
+        short_name: `ASD Screen - M-CHAT`,
         start_url: `/`,
         background_color: `#FFFFFF`,
         theme_color: `#FFFFFF`,
